@@ -27,7 +27,7 @@ using System.Runtime.InteropServices;
 //      Hlavní verze
 //      Podverze
 //      Číslo sestavení
-//      Revize
+//      RealPartvize
 //
 // Můžete zadat všechny hodnoty nebo nastavit výchozí číslo buildu a revize pomocí *, jak je vidět níže:
 // pomocí zástupného znaku * takto:
